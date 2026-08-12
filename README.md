@@ -129,7 +129,31 @@ Eingabe:
 ## Status
 STATE = STABIL  
 READY = 100%
+EVENT = "Signal_A"
 
-License
+Output:
 
-MIT — free to use and modify. Author credit (© iki1uc wieimmer) must be retained per the license terms. See LICENSE.
+PQ‑Root: Ursache → Wirkung
+EYE‑RESPO: Wahrgenommen
+VEKTEL: Narrativ erzeugt
+RESPO: Antwort formuliert
+TMP: Ablauf gestartet
+SIM: Interaktion ausgeführt
+
+---
+
+## Status
+
+- ECTEL: aktiv  
+- VEKTEL: aktiv  
+- RESPO: aktiv  
+- TMP: aktiv  
+- SIM: aktiv  
+- PQ‑Root (243): stabil  
+
+---
+
+## Lizenz
+
+MIT — frei nutzbar und veränderbar.  
+© iki1uc (Autor muss genannt werden)
