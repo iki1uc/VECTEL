@@ -1,0 +1,8 @@
+[VEKTEL.room]
+
+type = narrativ
+belongs_to = RESPO
+root_access = false
+tmp_access = true
+pq_access = read-only
+eye_access = full
